@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous Duties
-summary: "I serve as a reviewer for IEEE TCOM and JISAS."
-date: 2024-09-01
+summary: "I serve as a reviewer for IEEE TCOM, JISAS, and IEEE CL."
+date: 2026-05-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -17,3 +17,4 @@ date: 2024-09-01
 ### Reviewership
 IEEE Transactions on Communications (IEEE TCOM)  
 Journal of Information Security and Applications (JISAS)
+IEEE Communications Letters (IEEE CL)
