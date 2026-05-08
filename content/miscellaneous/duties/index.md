@@ -16,5 +16,5 @@ date: 2026-05-08
 ---
 ### Reviewership
 IEEE Transactions on Communications (IEEE TCOM)  
-Journal of Information Security and Applications (JISAS)
+Journal of Information Security and Applications (JISAS)  
 IEEE Communications Letters (IEEE CL)
