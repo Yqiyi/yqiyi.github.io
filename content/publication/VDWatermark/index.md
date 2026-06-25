@@ -36,7 +36,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: 'https://papers.nips.cc/paper_files/paper/2025/file/180cc11ffc71cc069a8fb7f8559fb411-Paper-Conference.pdf'
-url_code: 'https://papers.nips.cc/paper_files/paper/2025/file/180cc11ffc71cc069a8fb7f8559fb411-Supplemental-Conference.zip)'
+url_code: 'https://papers.nips.cc/paper_files/paper/2025/file/180cc11ffc71cc069a8fb7f8559fb411-Supplemental-Conference.zip'
 # url_dataset: '#'
 # url_poster: '#'
 url_project: ''
