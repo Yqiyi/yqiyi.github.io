@@ -29,6 +29,7 @@ summary: "Vector databases support machine learning tasks using Approximate Near
 
 tags:
 - Watermarking
+- Database Watermarking
 
 featured: false
 
