@@ -16,11 +16,11 @@ publishDate: "2026-04-21T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems"
-publication_short: "NeurIPS 2025"
+publication: In *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*
+publication_short: In *NeurIPS 2025*
 
 abstract: "Vector databases support machine learning tasks using Approximate Nearest Neighbour (ANN) query functionality, making them highly valuable digital assets. However, they also face security threats like unauthorized replication. By embedding stealth information, watermarking technology can be used for ownership authentication. This paper introduces a watermarking scheme specifically designed for vector databases. The scheme consists of four steps: generating identifiers, grouping, cryptographic mapping, and modification. Since watermark embedding requires modification of certain vectors, it may negatively affect the ANN query results. Further investigation reveals that in the widely used Hierarchical Navigable Small World (HNSW) indexing structure for vector databases, heuristic edge selection and pruning strategies result in some vectors having fewer edges or even none at all. These vectors exhibit significantly lower query frequencies than others, which means that modifying these vectors incurs less impact on query results. Based on this observation, we propose the Transparent Vector Priority (TVP) watermarking scheme, which prioritizes embedding the watermark in these low-query-frequency “transparent” vectors to minimize the impact of watermark embedding on query results. Experimental results show that compared to the current most effective and relevant watermarking schemes, the TVP scheme can significantly reduce the number of missed and false queries by approximately 75%."
 
@@ -35,8 +35,8 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://papers.nips.cc/paper_files/paper/2025/file/180cc11ffc71cc069a8fb7f8559fb411-Paper-Conference.pdf'
+url_code: 'https://papers.nips.cc/paper_files/paper/2025/file/180cc11ffc71cc069a8fb7f8559fb411-Supplemental-Conference.zip)'
 # url_dataset: '#'
 # url_poster: '#'
 url_project: ''
