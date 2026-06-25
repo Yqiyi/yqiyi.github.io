@@ -35,6 +35,7 @@ abstract: Steganography aims to hide information in cover media where steganogra
 summary: Steganography aims to hide information in cover media where steganographic coding acts as a vital part. None of the existing steganographic coding algorithms have been proved to be optimal so far. Recently, capacity-achieving polar codes have been used to devise steganographic coding algorithms which are evaluated by experimental simulations without theoretical analysis. In this paper, we prove that under the constant distortion profile, polar codes-based steganographic coding methods could achieve the theoretical rate-distortion bound for additive steganography when the code length goes to infinity.
 
 tags:
+  - Steganography
   - Steganographic Coding
 
 # Display this page in the Featured widget?
