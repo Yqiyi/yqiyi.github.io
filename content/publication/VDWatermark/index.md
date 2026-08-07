@@ -8,7 +8,7 @@ authors:
 - Weiming Zhang
 - Nenghai Yu
 date: "2025-09-19T00:00:00Z"
-doi: ""
+doi: "10.52202/085713-0553"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-21T00:00:00Z"
