@@ -9,7 +9,7 @@ authors:
 - Nenghai Yu
 - Kejiang Chen
 date: "2025-09-19T00:00:00Z"
-doi: ""
+doi: "10.52202/085713-1424"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-21T00:00:00Z"
