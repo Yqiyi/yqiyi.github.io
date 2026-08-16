@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous Duties
-summary: "I serve as a reviewer for IEEE TCOM, JISAS, and IEEE CL."
+summary: "I serve as a reviewer for IEEE TCOM, JISA, and IEEE CL."
 date: 2026-05-08
 
 # Featured image
