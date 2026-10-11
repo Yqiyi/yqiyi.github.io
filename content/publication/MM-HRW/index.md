@@ -15,7 +15,7 @@ publishDate: "2026-08-06T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Future Generation Computer Systems"
@@ -28,6 +28,7 @@ summary: "Cloud infrastructures have become increasingly popular among distribut
 
 tags:
 - Distributed Algorithms
+- Consistent Hashing
 
 featured: false
 
