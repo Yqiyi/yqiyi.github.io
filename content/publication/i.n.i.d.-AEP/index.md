@@ -5,28 +5,29 @@ authors:
 - Weiming Zhang
 - Kai Zeng
 - Kejiang Chen
-date: "2025-04-08T00:00:00Z"
-doi: ""
+date: "2026-06-16T00:00:00Z"
+doi: "10.1109/TDSC.2026.3704537"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-08T00:00:00Z"
+publishDate: "2026-06-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, IEEE Journal on Selected Areas in Communications"
-publication_short: "Submitted, IEEE JSAC"
+publication: "IEEE Transactions on Dependable and Secure Computing"
+publication_short: "IEEE TDSC"
 
-abstract: "As an important technique to achieve covert communication, steganography has developed greatly in pursuit of the secrecy of concealment suggested by Shannon. The most widely used scheme is called adaptive steganography which is composed of two phases: the distortion calculation phase and the adaptive steganographic coding phase. Conventionally, adaptive steganography assumes a noise-free lossless channel between the sender and the receiver. However, in real-world applications, the stego (cover media with secret messages embedded) would suffer from various lossy operations and be modified during transmission, leading to extraction error at the receiver. In this paper, robust adaptive steganographic coding is considered. We formalize the problem to be a problem of finding the maximum embedding rate of a special communication system with a normalized adaptive distortion function and a non-stationary memoryless sequence of discrete channels such that the secret message can be communicated without error. The theoretical rate-distortion bound of the problem is established which is a great leap forward in the research field of robust steganography. By modeling the noisy channels in real-world applications into non-stationary discrete memoryless channels (DMCs), our bound can be used to evaluate the existing robust methods and will serve as the ultimate goal for the design of new practical robust adaptive steganographic coding algorithms."
+abstract: "As an important technique to achieve covert communication, steganography has developed greatly in pursuit of the secrecy of concealment suggested by Shannon. The most widely adopted approach, adaptive steganography, consists of two phases: distortion calculation phase and adaptive steganographic coding phase, with the latter being the critical phase through which the secret message is embedded into the cover signal. Conventionally, adaptive steganography assumes a noise-free, lossless channel between the sender and receiver. However, in many practical real-world applications, the stego signal (cover signal with secret message embedded) would suffer from various lossy operations and be modified during transmission, leading to extraction errors at the receiver. To address this issue, robust adaptive steganography is essential with robust adaptive steganographic coding playing a key role. In this paper, we investigate the rate-distortion theory of robust adaptive steganographic coding. We formalize it as determining the supremum of all achievable embedding rates of a specialized communication system with a normalized adaptive distortion function and a non-stationary, memoryless sequence of discrete channels (DMCs), ensuring error-free transmission of the secret message. The rate-distortion bound is established, representing a significant advancement in the field of robust steganography. Furthermore, we show that the existing robust adaptive steganographic codes perform far from the bound, highlighting the need for further research and development in this area. By modeling real-world noisy channels as non-stationary DMCs, our bound sets the theoretical limit for designing robust adaptive steganographic codes that can be applied to various real-world scenarios including image, audio, and video steganography."
 
 # Summary. An optional shortened abstract.
-summary: "As an important technique to achieve covert communication, steganography has developed greatly in pursuit of the secrecy of concealment suggested by Shannon. The most widely used scheme is called adaptive steganography which is composed of two phases: the distortion calculation phase and the adaptive steganographic coding phase. Conventionally, adaptive steganography assumes a noise-free lossless channel between the sender and the receiver. However, in real-world applications, the stego (cover media with secret messages embedded) would suffer from various lossy operations and be modified during transmission, leading to extraction error at the receiver. In this paper, robust adaptive steganographic coding is considered. We formalize the problem to be a problem of finding the maximum embedding rate of a special communication system with a normalized adaptive distortion function and a non-stationary memoryless sequence of discrete channels such that the secret message can be communicated without error. The theoretical rate-distortion bound of the problem is established which is a great leap forward in the research field of robust steganography. By modeling the noisy channels in real-world applications into non-stationary discrete memoryless channels (DMCs), our bound can be used to evaluate the existing robust methods and will serve as the ultimate goal for the design of new practical robust adaptive steganographic coding algorithms."
+summary: "As an important technique to achieve covert communication, steganography has developed greatly in pursuit of the secrecy of concealment suggested by Shannon. The most widely adopted approach, adaptive steganography, consists of two phases: distortion calculation phase and adaptive steganographic coding phase, with the latter being the critical phase through which the secret message is embedded into the cover signal. Conventionally, adaptive steganography assumes a noise-free, lossless channel between the sender and receiver. However, in many practical real-world applications, the stego signal (cover signal with secret message embedded) would suffer from various lossy operations and be modified during transmission, leading to extraction errors at the receiver. To address this issue, robust adaptive steganography is essential with robust adaptive steganographic coding playing a key role. In this paper, we investigate the rate-distortion theory of robust adaptive steganographic coding. We formalize it as determining the supremum of all achievable embedding rates of a specialized communication system with a normalized adaptive distortion function and a non-stationary, memoryless sequence of discrete channels (DMCs), ensuring error-free transmission of the secret message. The rate-distortion bound is established, representing a significant advancement in the field of robust steganography. Furthermore, we show that the existing robust adaptive steganographic codes perform far from the bound, highlighting the need for further research and development in this area. By modeling real-world noisy channels as non-stationary DMCs, our bound sets the theoretical limit for designing robust adaptive steganographic codes that can be applied to various real-world scenarios including image, audio, and video steganography."
 
 tags:
 - Steganographic Coding
+- Steganography
 
 featured: false
 
@@ -65,11 +66,5 @@ url_slides: ''
 # slides: example
 ---
 <div style="display:none">
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 </div>
