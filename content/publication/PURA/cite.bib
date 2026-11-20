@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3830454.3846709,
+author = {Wang, Yaofei and Guo, Jinyang and Du, Shuchao and Wang, Chao and Yao, Qiyi and Hu, Donghui and Zhang, Weiming and Yu, Nenghai and Chen, Kejiang},
+title = {PURA: Provably Unbiased and Robust Multi-Bit Watermarking for AI-Generated Text Attribution},
+year = {2026},
+isbn = {9798400728716},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3830454.3846709},
+doi = {10.1145/3830454.3846709},
+abstract = {Fine-grained attribution of AI-generated text is becoming increasingly important for accountability and auditing, yet existing multi-bit watermarking methods still struggle to simultaneously preserve the base generation distribution, support high-capacity payloads, and remain recoverable after editing. We present PURA, a provably unbiased and robust multi-bit watermarking method for text attribution. Instead of perturbing token probabilities directly, PURA embeds payloads in the latent sampling space via keyed inverse transform sampling, and recovers them by treating observed tokens as soft interval evidence and aggregating such evidence across the sequence. This design preserves the base generation distribution exactly while substantially improving recovery stability under post-editing and channel perturbations. Building on this recovery paradigm, we further develop a unified robustness analysis and show that, under bounded attack strength, the per-bit error probability decays exponentially with sequence length. Extensive experiments show that PURA substantially outperforms existing unbiased baselines in the high-payload regime. For example, when embedding 36 bits in 200 tokens, PURA achieves a 91.7\% message match rate, more than three times that of the strongest unbiased baseline, while preserving text quality and remaining statistically close to unwatermarked text, and incurring only millisecond-level verification overhead. Our code is available at https://github.com/anshigaoa/PURA.},
+booktitle = {Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {6475–6489},
+numpages = {15},
+keywords = {large language models, text watermarking, multi-bit attribution, provenance tracking, robustness, error correction},
+location = {The Hague, Netherlands},
+series = {CCS '26}
+}
