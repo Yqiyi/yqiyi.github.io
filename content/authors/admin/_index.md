@@ -49,6 +49,8 @@ profiles:
 interests:
   - Coding Theory
   - Steganography
+  - Watermarking
+  - Distributed Algorithms
   - DNA Storage Systems
 
 education:
@@ -187,4 +189,4 @@ awards:
 #    percent: 25
 ---
 
-I am currently a Postdoctoral Researcher at the Department of Electrical and Electronics Engineering, Bilkent University, working with [Prof. Tolga M. Duman](http://ctar.bilkent.edu.tr/index.php/tolga-m-duman/). I am interested in a number of areas related to the theoretical and practical aspects of computer science, but primarily in steganography, coding theory, and DNA storage systems.
+I am currently a Postdoctoral Researcher at the Department of Electrical and Electronics Engineering, Bilkent University, working with [Prof. Tolga M. Duman](http://ctar.bilkent.edu.tr/index.php/tolga-m-duman/). I am interested in a number of areas related to the theoretical and practical aspects of computer science, but primarily in steganography, coding theory, watermarking, and DNA storage systems.
